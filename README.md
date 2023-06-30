@@ -1,9 +1,8 @@
 ### Bienvenidos al epsacio GitHub de NextCollehe 
 
 - 📺 [NextCollege Youtube channel](https://www.youtube.com/@NextCollege_Academy)
-- 📝 [Web NextCollege](https://www.nextcollege.co "Vida MRR Blog") but working in a new release [in beta](https://blog.vidamrr.com)
-- 👍 [Facebook](https://www.facebook.com/vidamrr "Vida MRR Blog"), 🐦[Twitter](https://www.twitter.com/vidamrr "Twitter profile"), 📷[Instagram](https://www.instagram.com/vidamrr "Instagram account") and 🎵[Tiktok](https://www.tiktok.com/@vidamrr "Tiktok profile")
-- 💼 My personal [Linkedin](https://www.vidamrr.com "Vida MRR Blog")
+- 📝 [Web NextCollege](https://www.nextcollege.co)
+- 👍 [Facebook](https://www.facebook.com/NextCollegeAcademy)
 
 <!--
 **NextCollege/NextCollege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
