@@ -1,8 +1,8 @@
 ### Bienvenidos al epsacio GitHub de NextCollehe 
 
-- 📺 [NextCollege Youtube channel](https://www.youtube.com/@NextCollege_Academy)
+- 📺 [NextCollege Youtube channel](https://www.youtube.com/@nextcollege)
 - 📝 [Web NextCollege](https://www.nextcollege.co)
-- 👍 [Facebook](https://www.facebook.com/NextCollegeAcademy)
+- 👍 [Facebook](https://www.facebook.com/NextCollegeSchool/)
 
 <!--
 **NextCollege/NextCollege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
